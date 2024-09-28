@@ -1,4 +1,4 @@
 export default function DashboardPage() {
-  return <div>Dashboard Page</div>;
+  return <div>페이지 Page</div>;
 }
 
